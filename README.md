@@ -1,1 +1,1 @@
-#connectbazaar
+Connect Bazaar
